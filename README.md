@@ -1,4 +1,4 @@
-# My portfolio - Project - Week 2
+# My portfolio - Trilogy Project
 
 My Portfolio written in HTML and CSS, This is one of Trilogy/Edx Challenges
 ## Description
