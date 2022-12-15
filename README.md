@@ -72,4 +72,4 @@ This challenge is graded based on the following criteria:
 
 ## Deployment
 
-Here is a quick link to the deployed page: 
+Here is a quick link to the deployed page: https://uwais-moosa.github.io/portfolio-Uwais/
